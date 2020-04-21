@@ -1,0 +1,29 @@
+﻿  CubeMesh.c
+  main.c
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(233,37): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(233,50): warning C4305:  'function': truncation from 'double' to 'GLclampf'
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(269,21): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(269,28): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(269,35): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(318,15): warning C4013:  'resetTerrain' undefined; assuming extern returning int
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(401,11): warning C4013:  'changeY' undefined; assuming extern returning int
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(406,9): warning C4013:  'undoY' undefined; assuming extern returning int
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(411,9): warning C4013:  'redoY' undefined; assuming extern returning int
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(659,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(660,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(640,11): warning C4101:  'location': unreferenced local variable
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(699,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(701,22): warning C4244:  'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(704,25): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(704,31): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+  QuadMesh.c
+C:\Users\nickj\Downloads\A1-SkeletonCode\main.c(704,37): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(46,33): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(48,37): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(51,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(379,57): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(381,61): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  Vector3D.c
+  Generating Code...
+C:\Users\nickj\Downloads\A1-SkeletonCode\QuadMesh.c(384,57): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  CPS511Terrain.vcxproj -> C:\Users\nickj\Desktop\CODE\C++ Projects\CPS511Terrain\Debug\CPS511Terrain.exe
